@@ -1,0 +1,10 @@
+{
+	"name": "Forge/Autoloader",
+	"description": "Default",
+	"autoload": {
+		"psr-0": {"Forge": "src/"}
+	},
+	"require": {
+		"Forge/Application": "dev-trunk"
+	}
+}
